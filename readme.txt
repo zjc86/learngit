@@ -1,4 +1,4 @@
 Git is a version control  system 
-git is free software
+git is free soft
  git reedit message 。
  你好吧
